@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var listCosmetic = ViewBag.Cosmetics as IEnumerable<Cosmetic>;
+    var listCompany = ViewBag.Companies as IEnumerable<Company>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cosmetic</h1>
+    
+    <table class="table">
+        <thead class="table-dark">
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">Description</th>
+            <th scope="col">Image</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in listCosmetic)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>@item.Description</td>
+                    <td>@item.Image</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
