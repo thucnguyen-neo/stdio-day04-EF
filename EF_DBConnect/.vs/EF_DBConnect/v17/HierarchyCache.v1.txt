@@ -1,0 +1,244 @@
+﻿++Solution 'EF_DBConnect' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:EF_DBConnect.sln
+++EF_DBConnect
+i:{00000000-0000-0000-0000-000000000000}:EF_DBConnect
+++Connected Services 
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>427
+++Dependencies
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>426
+++Properties
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\properties\
+++wwwroot
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\
+++css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\css\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\
+++main.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\css\main.css
+++site.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\css\site.css
+++images
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\images\
+++js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\js\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\
+++favicon.ico
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\favicon.ico
+++Controllers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\controllers\
+++HomeController.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\controllers\homecontroller.cs
+++Migrations
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\migrations\
+++20220527024926_cosmetic-company.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\migrations\20220527024926_cosmetic-company.cs
+++AppDbContextModelSnapshot.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\
+++Company
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\company\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\company\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\company\
+++Company.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\company\company.cs
+++Context
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\context\
+++AppDbContext.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\context\appdbcontext.cs
+++Cosmetic
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\cosmetic\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\cosmetic\
+++Cosmetic.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\cosmetic\cosmetic.cs
+++CosmeticCreateRequest.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\cosmetic\cosmeticcreaterequest.cs
+++CosmeticEditRequest.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\cosmetic\cosmeticeditrequest.cs
+++ErrorViewModel.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\errorviewmodel.cs
+++Services
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\
+++SQLCosmeticRepository.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\cosmetic\sqlcosmeticrepository.cs
+++Interface
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\interface\
+++ICompanyRepository.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\interface\icompanyrepository.cs
+++ICosmeticRepository.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\interface\icosmeticrepository.cs
+++Views
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\
+++Home
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\home\
+++Create.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\home\create.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\company\create.cshtml
+++Edit.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\home\edit.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\company\edit.cshtml
+++Index.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\company\index.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\home\index.cshtml
+++Privacy.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\home\privacy.cshtml
+++Shared
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\shared\
+++_Layout.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\views\_viewstart.cshtml
+++appsettings.json
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\appsettings.json
+++Program.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\program.cs
+++Startup.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\startup.cs
+++No service dependencies discovered
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>428
+++Analyzers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:analyzers
+++Frameworks
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:frameworks
+++Packages
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:packages
+++launchSettings.json
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\properties\launchsettings.json
+++e7806012-ccbf-4905-a5c0-f3061c66121a_Broccolioriginal.jpg
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\images\e7806012-ccbf-4905-a5c0-f3061c66121a_broccolioriginal.jpg
+++site.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\js\site.js
+++bootstrap
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\
+++jquery
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\
+++jquery-validation
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation-unobtrusive\
+++20220527024926_cosmetic-company.Designer.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\migrations\20220527024926_cosmetic-company.designer.cs
+++SQLCompanyRepository.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\services\company\sqlcompanyrepository.cs
+++appsettings.Development.json
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:c:\users\tnguyen\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (5.0.17)
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>440
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>438
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>439
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:>441
+++dist
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\dist\
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\license.txt
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Index.cshtml~RFfea1af2.TMP
+++HomeController.cs~RFfeb932b.TMP
+++09daf7ad-3af4-480e-8dd6-7c9e0a7a504c_Broccolioriginal.jpg
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\images\09daf7ad-3af4-480e-8dd6-7c9e0a7a504c_broccolioriginal.jpg
+++CosmeticController.cs
+++NewFolder
+++a40fe7dd-5d7a-477f-92e8-eb4db92f968c_Broccolioriginal.jpg
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\images\a40fe7dd-5d7a-477f-92e8-eb4db92f968c_broccolioriginal.jpg
+++8a3d2f2b-1fe5-45b3-bce6-d55a500d1058_Broccolioriginal.jpg
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\wwwroot\images\8a3d2f2b-1fe5-45b3-bce6-d55a500d1058_broccolioriginal.jpg
+++CompanyController.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\controllers\companycontroller.cs
+++HomeController.cs~RFff6e6e3.TMP
+++CompanyCreateRequest.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\company\companycreaterequest.cs
+++Create.cshtml~RFffd4ef6.TMP
+++HomeController.cs~RFffe0f0a.TMP
+++CompanyController.cs~RF10029e75.TMP
+++CompanyController.cs~RF1003b4f6.TMP
+++CompanyEditRequest.cs
+i:{2f818f5e-9db4-49c2-b5e1-c89d4dcf2309}:d:\software engineering\training\stdio\dotnet - student\day4_ef\ef_dbconnect\ef_dbconnect\models\company\companyeditrequest.cs
+++CompanyController.cs~RF100839b3.TMP
+++Edit.cshtml~RF100bb5ca.TMP

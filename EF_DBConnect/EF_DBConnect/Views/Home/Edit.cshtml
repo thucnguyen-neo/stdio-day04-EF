@@ -1,0 +1,74 @@
+﻿@model CosmeticEditRequest
+@{
+    var listCompany = ViewBag.Companies as IEnumerable<Company>;
+}
+<form enctype="multipart/form-data" asp-controller="Home" asp-action="Edit">
+<div class="text-center">
+    <img src="@Model.Image" style="width:100px; height:auto;" class="avatar img-circle myImage" alt="avatar" id="avatar" asp-append-version="true">
+    <br />
+   
+    <div class="custom-file">
+            <input class="custom-file-input" asp-for="IFFImage">
+        <label class="custom-file-label avatarPath" for="custom-file" style=" overflow-x: hidden; width: auto;">Choose file</label>
+    </div>
+</div>
+  <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="inputEmail4" asp-for="@Model.Id"></label>
+            <input class="form-control" asp-for="@Model.Id" readonly>
+    
+        </div>
+
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="inputEmail4" asp-for="@Model.Name"></label>
+            <input class="form-control" asp-for="@Model.Name">
+               <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        </div>
+
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="inputEmail4" asp-for="@Model.Price"></label>
+            <input class="form-control" asp-for="@Model.Price">
+               <span asp-validation-for="@Model.Price" class="text-danger"></span>
+        </div>
+
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="inputEmail4" asp-for="@Model.Description"></label>
+            <input class="form-control" asp-for="@Model.Description">
+        </div>
+
+    </div>
+    <div class="form-row mb-2">
+        <label for="inputEmail4">Thương hiệu</label>
+        <select class="custom-select" asp-for="@Model.CompanyId">
+            @foreach (var item in listCompany)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $(".custom-file-input").on("change", function () {
+                var fileName = $(this).val().split("\\").pop();
+                $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+            });
+        });
+      
+        $(document).ready(function () {
+            $(".custom-file-input").on("change", function () {
+                var fileName = $(this).val().split("\\").pop();
+                $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+                $("#avatar").attr("src", window.URL.createObjectURL($(this)[0].files[0]));
+            });
+        });
+    </script>
+}

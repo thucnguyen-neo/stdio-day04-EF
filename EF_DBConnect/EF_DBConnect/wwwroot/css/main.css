@@ -1,0 +1,35 @@
+﻿body {
+}
+
+.option {
+    text-align: center;
+    padding: 0 4px;
+    margin: 0 4px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.option:hover {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+
+.add {
+    padding: 2px 4px;
+    margin: 0 0 4px 0;
+    cursor: pointer;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+}
+
+.add:hover {
+    color: black;
+}
+
+.image {
+    width: 100px;
+    height: auto;
+}

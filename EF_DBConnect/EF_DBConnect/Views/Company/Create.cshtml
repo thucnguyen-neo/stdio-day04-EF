@@ -1,0 +1,14 @@
+﻿@model CompanyCreateRequest
+
+<form enctype="multipart/form-data" asp-controller="Company" asp-action="Create">
+
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <label for="inputEmail4" asp-for="@Model.Name"></label>
+            <input class="form-control" asp-for="@Model.Name">
+            <span asp-validation-for="@Model.Name" class="text-danger"></span>
+        </div>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>

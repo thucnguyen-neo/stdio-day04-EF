@@ -6,6 +6,9 @@
 
 <div class="text-center">
     <h1 class="display-4">Cosmetic</h1>
+    <div class="d-flex mb-2">
+        <a asp-action="Create" asp-controller="Home" class="add" >Thêm mới sản phẩm</a>
+    </div>
     
     <table class="table">
         <thead class="table-dark">
@@ -15,17 +18,27 @@
             <th scope="col">Price</th>
             <th scope="col">Description</th>
             <th scope="col">Image</th>
+            <th scope="col">Option</th>
         </tr>
         </thead>
         <tbody>
             @foreach(var item in listCosmetic)
             {
+                string image = "/images/" + @item.Image;
                 <tr>
                     <td>@item.Id</td>
                     <td>@item.Name</td>
                     <td>@item.Price</td>
                     <td>@item.Description</td>
-                    <td>@item.Image</td>
+                    <td><img class="image" src="@image"/></td>
+                    <td>
+                        <a class="option" asp-controller="Home" asp-action="Edit" asp-route-id="@item.Id">
+                            <i class="bi bi-pencil"></i>
+                        </a>
+                        <a class="option" asp-controller="Home" asp-action="Delete" asp-route-id="@item.Id">
+                            <i class="bi bi-trash3"></i>
+                        </a>                  
+                    </td>
                 </tr>
             }
         </tbody>
